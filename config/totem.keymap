@@ -44,6 +44,11 @@
             key-positions = <16 17>;
             layers = <0 2 1 3 4 5>;
         };
+
+        TabCombo {
+            bindings = <&kp TAB>;
+            key-positions = <10 11>;
+        };
     };
 
     macros {
